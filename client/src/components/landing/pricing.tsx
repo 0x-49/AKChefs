@@ -43,7 +43,7 @@ export default function Pricing() {
               </div>
               <Button className="mt-8 w-full" size="lg" asChild>
                 <a 
-                  href="https://whop.com/akchefs/"
+                  href="https://whop.com/akchefs/?a=digitalartlab"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

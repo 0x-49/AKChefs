@@ -54,7 +54,7 @@ export default function Hero() {
           >
             <Button size="lg" className="group relative overflow-hidden" asChild>
               <a 
-                href="https://whop.com/akchefs/" 
+                href="https://whop.com/akchefs/?a=digitalartlab" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center"
